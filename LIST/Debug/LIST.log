@@ -1,0 +1,3 @@
+﻿  MyList.cpp
+C:\Users\Женя\source\repos\LIST\LIST\MyList.cpp(17,14): warning C4101: s: неиспользованная локальная переменная
+  LIST.vcxproj -> C:\Users\Женя\source\repos\LIST\Debug\MyList.exe
